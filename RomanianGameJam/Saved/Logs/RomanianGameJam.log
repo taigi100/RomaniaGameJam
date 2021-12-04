@@ -1294,3 +1294,902 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.04-00.49.34:399][221]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.04-00.49.34:399][221]LogContentValidation: Display: Validating Blueprint /Game/Core/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
 [2021.12.04-00.49.34:399][221]LogContentValidation: Display: Validating World /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.12.04-00.51.28:327][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\andri\Desktop\RomanianGameJamAssets\Forest Lite Pixel Art Tileset\Sprites\Background\sky_cloud.png)
+[2021.12.04-00.51.28:333][543]LogTexture: Display: Building textures: sky_cloud (BGRA8, 688X211)
+[2021.12.04-00.51.28:346][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\andri\Desktop\RomanianGameJamAssets\Forest Lite Pixel Art Tileset\Sprites\Background\cloud.png)
+[2021.12.04-00.51.28:348][543]LogTexture: Display: Building textures: cloud (BGRA8, 634X136)
+[2021.12.04-00.51.28:362][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\andri\Desktop\RomanianGameJamAssets\Forest Lite Pixel Art Tileset\Sprites\Background\mountain2.png)
+[2021.12.04-00.51.28:364][543]LogTexture: Display: Building textures: mountain2 (BGRA8, 688X127)
+[2021.12.04-00.51.28:377][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\andri\Desktop\RomanianGameJamAssets\Forest Lite Pixel Art Tileset\Sprites\Background\pine1.png)
+[2021.12.04-00.51.28:379][543]LogTexture: Display: Building textures: pine1 (OODLE_AutoDXT, 688X148)
+[2021.12.04-00.51.28:383][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\andri\Desktop\RomanianGameJamAssets\Forest Lite Pixel Art Tileset\Sprites\Background\pine2.png)
+[2021.12.04-00.51.28:385][543]LogTexture: Display: Building textures: pine2 (BGRA8, 688X199)
+[2021.12.04-00.51.28:400][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\andri\Desktop\RomanianGameJamAssets\Forest Lite Pixel Art Tileset\Sprites\Background\sky.png)
+[2021.12.04-00.51.28:403][543]LogTexture: Display: Building textures: sky (BGRA8, 688X211)
+[2021.12.04-00.51.38:708][522]LogTexture: Display: Building textures: pine1 (BGRA8, 688X148)
+[2021.12.04-00.51.45:672][222]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.04-00.51.45:949][252]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.04-00.51.46:226][282]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.04-00.51.46:481][309]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.04-00.51.46:819][346]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.04-00.51.47:333][405]LogSlate: Window 'Extract sprites' being destroyed
+[2021.12.04-00.51.51:629][917]LogEditorViewport: Clicking Background
+[2021.12.04-00.52.25:432][944]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RightEdge)
+[2021.12.04-00.52.28:468][300]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sky_cloud_Sprite_1)
+[2021.12.04-00.53.50:513][ 81]Cmd: DELETE
+[2021.12.04-00.53.50:513][ 81]Cmd: ACTOR DELETE
+[2021.12.04-00.53.50:515][ 81]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.12.04-00.53.50:531][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.12.04-00.53.50:532][ 81]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.12.04-00.53.51:280][171]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (pine2_Sprite_1)
+[2021.12.04-00.53.51:671][215]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2021.12.04-00.54.34:827][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.12.04-00.54.35:892][350]LogSlate: Window 'Save Content' being destroyed
+[2021.12.04-00.54.35:933][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.04-00.54.35:946][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/2DSideScrollerExampleMap166B217F48ED38F05A129EA314FA235F.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/2DSideScrollerExampleMap.umap'
+[2021.12.04-00.54.35:955][350]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.036
+[2021.12.04-00.54.35:957][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/Sprites/BG/cloud" FILE="../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/cloud.uasset" SILENT=true
+[2021.12.04-00.54.35:961][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/cloud9EE20E1F46FFCA9CF600F9994C472CF5.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/cloud.uasset'
+[2021.12.04-00.54.35:969][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/cloud_Sprite_0B6DF8D494F0F4265B1C2A79BDCF4DD40.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/cloud_Sprite_0.uasset'
+[2021.12.04-00.54.35:977][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/cloud_Sprite_1B1198E5A4A037CB16634D984A501BF94.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/cloud_Sprite_1.uasset'
+[2021.12.04-00.54.35:983][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/mountain2A936C45546C47009A16709AEAA054AEE.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/mountain2.uasset'
+[2021.12.04-00.54.35:991][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/mountain2_Sprite_082D0630A43666B92035189BC28A0DDD0.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/mountain2_Sprite_0.uasset'
+[2021.12.04-00.54.35:993][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/Sprites/BG/pine1" FILE="../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/pine1.uasset" SILENT=true
+[2021.12.04-00.54.35:996][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/pine109CFE302484B0C4BEFF17DB3B3846E83.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/pine1.uasset'
+[2021.12.04-00.54.36:004][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/pine1_Sprite_03BC77AB34A410201AD1B64A11E6A2BE1.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/pine1_Sprite_0.uasset'
+[2021.12.04-00.54.36:007][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/Sprites/BG/pine2" FILE="../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/pine2.uasset" SILENT=true
+[2021.12.04-00.54.36:011][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/pine2EED7B05D44085908BDC8CC9E0C6CBDDE.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/pine2.uasset'
+[2021.12.04-00.54.36:019][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/pine2_Sprite_0807CD27C49FA857B91A3D59756A2EB3C.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/pine2_Sprite_0.uasset'
+[2021.12.04-00.54.36:021][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/Maps/Sprites/BG/sky" FILE="../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/sky.uasset" SILENT=true
+[2021.12.04-00.54.36:025][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/sky2F2C2FBF48BE96BC8F1DD3B5CA653A96.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/sky.uasset'
+[2021.12.04-00.54.36:035][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/sky_cloud9E63227C4375EEE76FB8EFBD3197224F.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/sky_cloud.uasset'
+[2021.12.04-00.54.36:043][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/sky_cloud_Sprite_0CCBD9DC0482DDFD4C1458782DE377E3B.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/sky_cloud_Sprite_0.uasset'
+[2021.12.04-00.54.36:051][350]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/sky_Sprite_0D26A016A41A9CFA03E3856B71ED63BCB.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/Sprites/BG/sky_Sprite_0.uasset'
+[2021.12.04-00.54.36:062][350]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating World /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating PaperSprite /Game/Core/Maps/Sprites/BG/sky_Sprite_0.sky_Sprite_0
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating PaperSprite /Game/Core/Maps/Sprites/BG/sky_cloud_Sprite_0.sky_cloud_Sprite_0
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating PaperSprite /Game/Core/Maps/Sprites/BG/cloud_Sprite_1.cloud_Sprite_1
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating PaperSprite /Game/Core/Maps/Sprites/BG/cloud_Sprite_0.cloud_Sprite_0
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating PaperSprite /Game/Core/Maps/Sprites/BG/mountain2_Sprite_0.mountain2_Sprite_0
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating PaperSprite /Game/Core/Maps/Sprites/BG/pine1_Sprite_0.pine1_Sprite_0
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating PaperSprite /Game/Core/Maps/Sprites/BG/pine2_Sprite_0.pine2_Sprite_0
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating Texture2D /Game/Core/Maps/Sprites/BG/sky.sky
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating Texture2D /Game/Core/Maps/Sprites/BG/pine2.pine2
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating Texture2D /Game/Core/Maps/Sprites/BG/pine1.pine1
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating Texture2D /Game/Core/Maps/Sprites/BG/mountain2.mountain2
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating Texture2D /Game/Core/Maps/Sprites/BG/cloud.cloud
+[2021.12.04-00.54.36:062][350]LogContentValidation: Display: Validating Texture2D /Game/Core/Maps/Sprites/BG/sky_cloud.sky_cloud
+[2021.12.04-00.54.46:307][614]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-00.54.46:319][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-00.54.46:319][614]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 8:54:46 AM)
+[2021.12.04-00.54.46:320][614]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.04-00.54.46:321][614]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.04-00.54.46:321][614]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.54.46:323][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001956s)
+[2021.12.04-00.54.46:324][614]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-00.54.46:325][614]LogPlayLevel: PIE: World Init took: (0.002086s)
+[2021.12.04-00.54.46:325][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004148s)
+[2021.12.04-00.54.46:340][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.12.04-00.54.46:340][614]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.04-00.54.46:340][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-00.54.46:340][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-00.54.46:340][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-00.54.46:340][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-00.54.46:340][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-00.54.46:340][614]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-00.54.46:340][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-00.54.46:340][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-00.54.46:341][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-00.54.46:341][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-00.54.46:341][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-00.54.46:341][614]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-00.54.46:346][614]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-00.54.46:346][614]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-00.54.46:354][614]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-00.54.46:354][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-00.54.46:354][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-00.54.46:354][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-00.54.46:355][614]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-00.54.46:355][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-00.54.46:355][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-00.54.46:355][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-00.54.46:355][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-00.54.46:355][614]LogInit: FAudioDevice initialized.
+[2021.12.04-00.54.46:355][614]LogAudio: Display: Audio Device (ID: 2) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-00.54.46:362][614]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-00.54.46:364][614]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-16.54.46
+[2021.12.04-00.54.46:364][614]LogWorld: Bringing up level for play took: 0.000679
+[2021.12.04-00.54.46:364][614]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.12.04-00.54.46:369][614]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.12.04-00.54.46:370][614]PIE: Server logged in
+[2021.12.04-00.54.46:371][614]PIE: Play in editor total start time 0.058 seconds.
+[2021.12.04-00.54.51:714][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.54.51:714][222]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.54.51:714][222]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-00.54.51:714][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.54.51:718][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-00.54.51:731][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.54.51:746][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-00.54.51:750][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.54.51:750][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.54.51:752][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.54.51:768][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.12.04-00.54.51:800][223]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.12.04-00.55.29:498][249]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-00.55.29:510][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-00.55.29:510][249]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 8:55:29 AM)
+[2021.12.04-00.55.29:510][249]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.55.29:513][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002525s)
+[2021.12.04-00.55.29:514][249]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-00.55.29:515][249]LogPlayLevel: PIE: World Init took: (0.002228s)
+[2021.12.04-00.55.29:515][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004858s)
+[2021.12.04-00.55.29:536][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.12.04-00.55.29:537][249]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.12.04-00.55.29:537][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-00.55.29:537][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-00.55.29:537][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-00.55.29:537][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-00.55.29:537][249]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-00.55.29:537][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-00.55.29:537][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-00.55.29:537][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-00.55.29:538][249]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-00.55.29:538][249]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-00.55.29:538][249]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-00.55.29:538][249]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-00.55.29:542][249]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-00.55.29:542][249]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-00.55.29:550][249]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-00.55.29:551][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-00.55.29:551][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-00.55.29:551][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-00.55.29:551][249]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-00.55.29:551][249]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-00.55.29:551][249]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-00.55.29:552][249]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-00.55.29:552][249]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-00.55.29:552][249]LogInit: FAudioDevice initialized.
+[2021.12.04-00.55.29:552][249]LogAudio: Display: Audio Device (ID: 3) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-00.55.29:560][249]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-00.55.29:561][249]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-16.55.29
+[2021.12.04-00.55.29:561][249]LogWorld: Bringing up level for play took: 0.000618
+[2021.12.04-00.55.29:561][249]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.12.04-00.55.29:563][249]PIE: Server logged in
+[2021.12.04-00.55.29:563][249]PIE: Play in editor total start time 0.059 seconds.
+[2021.12.04-00.55.33:864][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.55.33:864][759]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.55.33:864][759]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-00.55.33:865][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.55.33:869][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-00.55.33:881][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.55.33:898][759]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-00.55.33:898][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.55.33:899][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.55.33:901][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.55.33:903][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.12.04-00.55.33:931][760]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.12.04-00.56.07:036][683]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.12.04-00.56.07:072][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.12.04-00.56.11:955][251]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-00.56.11:965][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-00.56.11:965][251]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 8:56:11 AM)
+[2021.12.04-00.56.11:987][251]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.56.11:989][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002064s)
+[2021.12.04-00.56.11:990][251]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-00.56.11:992][251]LogPlayLevel: PIE: World Init took: (0.002171s)
+[2021.12.04-00.56.11:992][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004355s)
+[2021.12.04-00.56.12:010][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.12.04-00.56.12:011][251]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.12.04-00.56.12:011][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-00.56.12:011][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-00.56.12:011][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-00.56.12:011][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-00.56.12:011][251]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-00.56.12:011][251]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-00.56.12:011][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-00.56.12:011][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-00.56.12:011][251]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-00.56.12:011][251]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-00.56.12:011][251]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-00.56.12:011][251]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-00.56.12:016][251]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-00.56.12:016][251]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-00.56.12:024][251]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-00.56.12:024][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-00.56.12:024][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-00.56.12:024][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-00.56.12:025][251]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-00.56.12:025][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-00.56.12:025][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-00.56.12:025][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-00.56.12:025][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-00.56.12:025][251]LogInit: FAudioDevice initialized.
+[2021.12.04-00.56.12:025][251]LogAudio: Display: Audio Device (ID: 4) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-00.56.12:036][251]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-00.56.12:037][251]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-16.56.12
+[2021.12.04-00.56.12:038][251]LogWorld: Bringing up level for play took: 0.000619
+[2021.12.04-00.56.12:038][251]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.12.04-00.56.12:039][251]PIE: Server logged in
+[2021.12.04-00.56.12:040][251]PIE: Play in editor total start time 0.081 seconds.
+[2021.12.04-00.56.30:824][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.56.30:824][500]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.56.30:824][500]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-00.56.30:824][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.56.30:833][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-00.56.30:845][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.56.30:861][500]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-00.56.30:861][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.56.30:861][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.56.30:863][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.56.30:866][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.12.04-00.56.30:899][501]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.12.04-00.56.35:672][ 66]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/2DSideScrollerCharacter59831C634919BEEBF90B6F9D248B6D23.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2021.12.04-00.56.35:687][ 66]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2021.12.04-00.56.35:687][ 66]LogContentValidation: Display: Validating Blueprint /Game/Core/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.12.04-00.57.05:026][542]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2021.12.04-00.57.05:063][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.12.04-00.57.09:056][  9]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-00.57.09:067][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-00.57.09:067][  9]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 8:57:09 AM)
+[2021.12.04-00.57.09:098][  9]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.57.09:101][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003217s)
+[2021.12.04-00.57.09:102][  9]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-00.57.09:106][  9]LogPlayLevel: PIE: World Init took: (0.005535s)
+[2021.12.04-00.57.09:106][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.008971s)
+[2021.12.04-00.57.09:144][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.12.04-00.57.09:144][  9]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.12.04-00.57.09:144][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-00.57.09:144][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-00.57.09:144][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-00.57.09:144][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-00.57.09:144][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-00.57.09:144][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-00.57.09:144][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-00.57.09:144][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-00.57.09:145][  9]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-00.57.09:145][  9]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-00.57.09:145][  9]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-00.57.09:145][  9]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-00.57.09:152][  9]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-00.57.09:152][  9]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-00.57.09:164][  9]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-00.57.09:164][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-00.57.09:164][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-00.57.09:164][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-00.57.09:164][  9]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-00.57.09:164][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-00.57.09:164][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-00.57.09:165][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-00.57.09:165][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-00.57.09:165][  9]LogInit: FAudioDevice initialized.
+[2021.12.04-00.57.09:165][  9]LogAudio: Display: Audio Device (ID: 5) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-00.57.09:172][  9]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-00.57.09:173][  9]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-16.57.09
+[2021.12.04-00.57.09:173][  9]LogWorld: Bringing up level for play took: 0.000565
+[2021.12.04-00.57.09:173][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.12.04-00.57.09:174][  9]PIE: Server logged in
+[2021.12.04-00.57.09:175][  9]PIE: Play in editor total start time 0.113 seconds.
+[2021.12.04-00.57.24:614][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.57.24:614][854]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.57.24:615][854]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-00.57.24:615][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.57.24:622][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-00.57.24:635][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.57.24:651][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-00.57.24:651][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.57.24:652][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.57.24:654][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.57.24:656][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.12.04-00.57.24:689][855]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.12.04-00.57.29:966][486]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (pine1_Sprite_1)
+[2021.12.04-00.57.46:654][486]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (pine2_Sprite_1)
+[2021.12.04-00.57.53:119][253]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-00.57.53:131][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-00.57.53:131][253]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 8:57:53 AM)
+[2021.12.04-00.57.53:131][253]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.57.53:133][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001882s)
+[2021.12.04-00.57.53:133][253]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-00.57.53:135][253]LogPlayLevel: PIE: World Init took: (0.001999s)
+[2021.12.04-00.57.53:135][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003977s)
+[2021.12.04-00.57.53:153][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.12.04-00.57.53:154][253]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.12.04-00.57.53:154][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-00.57.53:154][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-00.57.53:154][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-00.57.53:154][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-00.57.53:154][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-00.57.53:154][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-00.57.53:154][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-00.57.53:154][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-00.57.53:154][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-00.57.53:154][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-00.57.53:154][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-00.57.53:154][253]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-00.57.53:159][253]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-00.57.53:159][253]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-00.57.53:167][253]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-00.57.53:168][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-00.57.53:168][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-00.57.53:168][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-00.57.53:168][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-00.57.53:168][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-00.57.53:168][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-00.57.53:169][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-00.57.53:169][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-00.57.53:169][253]LogInit: FAudioDevice initialized.
+[2021.12.04-00.57.53:169][253]LogAudio: Display: Audio Device (ID: 6) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-00.57.53:177][253]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-00.57.53:178][253]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-16.57.53
+[2021.12.04-00.57.53:178][253]LogWorld: Bringing up level for play took: 0.000738
+[2021.12.04-00.57.53:178][253]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.12.04-00.57.53:180][253]PIE: Server logged in
+[2021.12.04-00.57.53:180][253]PIE: Play in editor total start time 0.056 seconds.
+[2021.12.04-00.58.04:805][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.58.04:805][637]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.58.04:805][637]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-00.58.04:806][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.58.04:816][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-00.58.04:828][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.58.04:844][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.58.04:845][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.58.04:845][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.58.04:850][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.12.04-00.58.04:878][638]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.12.04-00.58.05:722][738]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (pine1_Sprite_1)
+[2021.12.04-00.58.12:449][539]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-00.58.12:460][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-00.58.12:460][539]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 8:58:12 AM)
+[2021.12.04-00.58.12:460][539]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.58.12:462][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001852s)
+[2021.12.04-00.58.12:463][539]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-00.58.12:464][539]LogPlayLevel: PIE: World Init took: (0.002066s)
+[2021.12.04-00.58.12:464][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004016s)
+[2021.12.04-00.58.12:482][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.12.04-00.58.12:483][539]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.12.04-00.58.12:483][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-00.58.12:483][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-00.58.12:483][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-00.58.12:483][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-00.58.12:483][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-00.58.12:483][539]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-00.58.12:483][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-00.58.12:483][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-00.58.12:483][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-00.58.12:483][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-00.58.12:483][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-00.58.12:483][539]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-00.58.12:488][539]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-00.58.12:488][539]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-00.58.12:496][539]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-00.58.12:497][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-00.58.12:497][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-00.58.12:497][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-00.58.12:497][539]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-00.58.12:497][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-00.58.12:497][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-00.58.12:498][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-00.58.12:498][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-00.58.12:498][539]LogInit: FAudioDevice initialized.
+[2021.12.04-00.58.12:498][539]LogAudio: Display: Audio Device (ID: 7) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-00.58.12:505][539]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-00.58.12:505][539]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-16.58.12
+[2021.12.04-00.58.12:506][539]LogWorld: Bringing up level for play took: 0.000569
+[2021.12.04-00.58.12:506][539]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.12.04-00.58.12:507][539]PIE: Server logged in
+[2021.12.04-00.58.12:508][539]PIE: Play in editor total start time 0.054 seconds.
+[2021.12.04-00.58.14:144][734]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=17.07 Y=0.00 Z=0.00 Location: X=-62.00 Y=1.00 Z=-446.41 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:29.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (0 other events since notify)
+[2021.12.04-00.58.15:144][854]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=99.67 Y=0.00 Z=0.00 Location: X=-62.00 Y=1.00 Z=-446.41 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:29.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (106 other events since notify)
+[2021.12.04-00.58.16:144][974]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=-283.16 Y=0.00 Z=0.00 Location: X=-62.00 Y=1.00 Z=-446.41 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:29.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (67 other events since notify)
+[2021.12.04-00.58.17:144][ 94]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=-238.94 Y=0.00 Z=0.00 Location: X=-62.00 Y=1.00 Z=-448.46 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:29.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (24 other events since notify)
+[2021.12.04-00.58.18:074][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.58.18:074][200]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.58.18:074][200]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-00.58.18:074][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.58.18:080][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-00.58.18:092][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.58.18:107][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-00.58.18:107][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.58.18:108][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.58.18:110][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.58.18:112][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.12.04-00.58.18:145][201]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.12.04-00.58.33:808][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-00.58.33:820][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-00.58.33:820][ 76]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 8:58:33 AM)
+[2021.12.04-00.58.33:820][ 76]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.58.33:822][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001878s)
+[2021.12.04-00.58.33:823][ 76]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-00.58.33:824][ 76]LogPlayLevel: PIE: World Init took: (0.001946s)
+[2021.12.04-00.58.33:824][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003916s)
+[2021.12.04-00.58.33:841][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.12.04-00.58.33:842][ 76]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.12.04-00.58.33:842][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-00.58.33:842][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-00.58.33:842][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-00.58.33:842][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-00.58.33:842][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-00.58.33:842][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-00.58.33:842][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-00.58.33:842][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-00.58.33:842][ 76]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-00.58.33:842][ 76]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-00.58.33:842][ 76]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-00.58.33:842][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-00.58.33:847][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-00.58.33:847][ 76]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-00.58.33:855][ 76]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-00.58.33:855][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-00.58.33:855][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-00.58.33:855][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-00.58.33:855][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-00.58.33:855][ 76]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-00.58.33:855][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-00.58.33:856][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-00.58.33:856][ 76]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-00.58.33:856][ 76]LogInit: FAudioDevice initialized.
+[2021.12.04-00.58.33:856][ 76]LogAudio: Display: Audio Device (ID: 8) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-00.58.33:862][ 76]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-00.58.33:863][ 76]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-16.58.33
+[2021.12.04-00.58.33:863][ 76]LogWorld: Bringing up level for play took: 0.000563
+[2021.12.04-00.58.33:863][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.12.04-00.58.33:864][ 76]PIE: Server logged in
+[2021.12.04-00.58.33:865][ 76]PIE: Play in editor total start time 0.052 seconds.
+[2021.12.04-00.58.34:801][185]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=-597.35 Y=0.00 Z=0.00 Location: X=-62.00 Y=1.00 Z=-446.41 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:24.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (34 other events since notify)
+[2021.12.04-00.58.36:109][342]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=17.07 Y=0.00 Z=0.00 Location: X=-62.00 Y=1.00 Z=-446.41 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:24.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (64 other events since notify)
+[2021.12.04-00.58.37:944][562]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=-600.00 Y=0.00 Z=0.00 Location: X=-193.13 Y=1.00 Z=-447.69 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:24.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (63 other events since notify)
+[2021.12.04-00.58.39:227][716]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=-536.05 Y=0.00 Z=0.00 Location: X=-209.58 Y=1.00 Z=-448.52 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:24.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (62 other events since notify)
+[2021.12.04-00.58.41:077][938]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=-163.47 Y=0.00 Z=0.00 Location: X=-209.58 Y=1.00 Z=-448.56 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:24.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (17 other events since notify)
+[2021.12.04-00.58.42:474][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.58.42:474][102]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.58.42:474][102]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-00.58.42:475][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.58.42:480][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-00.58.42:492][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.58.42:508][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.58.42:508][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.58.42:509][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.58.42:513][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.12.04-00.58.42:546][103]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.12.04-00.58.46:339][554]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (pine1_Sprite_1)
+[2021.12.04-00.58.59:886][177]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (pine2_Sprite_1)
+[2021.12.04-00.59.03:844][642]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-00.59.03:856][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-00.59.03:856][642]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 8:59:03 AM)
+[2021.12.04-00.59.03:898][642]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.59.03:900][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002007s)
+[2021.12.04-00.59.03:901][642]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-00.59.03:902][642]LogPlayLevel: PIE: World Init took: (0.002506s)
+[2021.12.04-00.59.03:902][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004648s)
+[2021.12.04-00.59.03:921][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.12.04-00.59.03:922][642]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.12.04-00.59.03:922][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-00.59.03:922][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-00.59.03:922][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-00.59.03:922][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-00.59.03:922][642]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-00.59.03:922][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-00.59.03:922][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-00.59.03:922][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-00.59.03:922][642]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-00.59.03:922][642]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-00.59.03:922][642]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-00.59.03:922][642]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-00.59.03:927][642]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-00.59.03:927][642]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-00.59.03:935][642]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-00.59.03:935][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-00.59.03:935][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-00.59.03:935][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-00.59.03:935][642]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-00.59.03:935][642]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-00.59.03:935][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-00.59.03:936][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-00.59.03:936][642]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-00.59.03:936][642]LogInit: FAudioDevice initialized.
+[2021.12.04-00.59.03:936][642]LogAudio: Display: Audio Device (ID: 9) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-00.59.03:945][642]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-00.59.03:946][642]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-16.59.03
+[2021.12.04-00.59.03:946][642]LogWorld: Bringing up level for play took: 0.000618
+[2021.12.04-00.59.03:946][642]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.12.04-00.59.03:948][642]PIE: Server logged in
+[2021.12.04-00.59.03:949][642]PIE: Play in editor total start time 0.099 seconds.
+[2021.12.04-00.59.09:274][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.59.09:274][274]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.59.09:275][274]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-00.59.09:275][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.59.09:284][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-00.59.09:296][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.59.09:312][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.59.09:312][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.59.09:313][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.59.09:317][274]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.12.04-00.59.09:350][275]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.12.04-00.59.11:003][471]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.12.04-00.59.14:642][896]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-00.59.14:658][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-00.59.14:658][896]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 8:59:14 AM)
+[2021.12.04-00.59.14:658][896]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.59.14:660][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001881s)
+[2021.12.04-00.59.14:661][896]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-00.59.14:662][896]LogPlayLevel: PIE: World Init took: (0.001925s)
+[2021.12.04-00.59.14:662][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003894s)
+[2021.12.04-00.59.14:680][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.12.04-00.59.14:682][896]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.12.04-00.59.14:682][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-00.59.14:682][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-00.59.14:682][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-00.59.14:682][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-00.59.14:682][896]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-00.59.14:682][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-00.59.14:682][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-00.59.14:682][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-00.59.14:682][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-00.59.14:682][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-00.59.14:682][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-00.59.14:682][896]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-00.59.14:687][896]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-00.59.14:687][896]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-00.59.14:695][896]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-00.59.14:695][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-00.59.14:695][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-00.59.14:695][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-00.59.14:695][896]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-00.59.14:695][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-00.59.14:695][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-00.59.14:696][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-00.59.14:696][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-00.59.14:696][896]LogInit: FAudioDevice initialized.
+[2021.12.04-00.59.14:696][896]LogAudio: Display: Audio Device (ID: 10) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-00.59.14:706][896]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-00.59.14:707][896]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-16.59.14
+[2021.12.04-00.59.14:707][896]LogWorld: Bringing up level for play took: 0.000595
+[2021.12.04-00.59.14:707][896]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.12.04-00.59.14:708][896]PIE: Server logged in
+[2021.12.04-00.59.14:709][896]PIE: Play in editor total start time 0.062 seconds.
+[2021.12.04-00.59.17:684][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.59.17:684][246]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-00.59.17:684][246]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-00.59.17:684][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.59.17:694][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-00.59.17:721][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-00.59.17:737][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-00.59.17:737][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.59.17:738][246]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-00.59.17:740][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-00.59.17:743][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.12.04-00.59.17:778][247]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.12.04-01.00.15:271][ 94]Cmd: DELETE
+[2021.12.04-01.00.15:271][ 94]Cmd: ACTOR DELETE
+[2021.12.04-01.00.15:272][ 94]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.12.04-01.00.15:272][ 94]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.pine2_Sprite_10.RenderComponent)
+[2021.12.04-01.00.15:290][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.12.04-01.00.15:292][ 94]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.12.04-01.00.21:932][879]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.21:939][880]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.21:948][881]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.21:956][882]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.21:965][883]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.21:973][884]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.21:981][885]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.21:990][886]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.21:998][887]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:006][888]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:015][889]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:023][890]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:031][891]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:040][892]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:048][893]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:056][894]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:065][895]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:073][896]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:082][897]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:090][898]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:098][899]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:107][900]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:115][901]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:123][902]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:132][903]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:140][904]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:148][905]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:157][906]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:165][907]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:173][908]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:182][909]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:190][910]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:199][911]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:207][912]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:215][913]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:224][914]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:232][915]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:240][916]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:249][917]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:257][918]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:265][919]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:274][920]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:473][944]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:490][946]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:498][947]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:507][948]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:515][949]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:523][950]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:532][951]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:540][952]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:548][953]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:557][954]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:565][955]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:574][956]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:582][957]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:590][958]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:599][959]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.22:690][970]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.23:697][ 90]Cmd: DELETE
+[2021.12.04-01.00.23:697][ 90]Cmd: ACTOR DELETE
+[2021.12.04-01.00.23:698][ 90]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.12.04-01.00.23:698][ 90]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.mountain2_Sprite_7.RenderComponent)
+[2021.12.04-01.00.23:714][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.12.04-01.00.23:716][ 90]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.12.04-01.00.31:567][ 21]Cmd: DELETE
+[2021.12.04-01.00.31:567][ 21]Cmd: ACTOR DELETE
+[2021.12.04-01.00.31:568][ 21]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.12.04-01.00.31:569][ 21]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.pine1_Sprite_13.RenderComponent)
+[2021.12.04-01.00.31:586][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.12.04-01.00.31:587][ 21]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.12.04-01.00.36:274][578]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:283][579]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:291][580]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:299][581]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:308][582]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:316][583]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:324][584]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:333][585]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:341][586]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:349][587]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:358][588]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:366][589]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:374][590]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:383][591]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:391][592]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:400][593]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:408][594]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:416][595]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.36:441][598]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.37:605][737]Cmd: DELETE
+[2021.12.04-01.00.37:605][737]Cmd: ACTOR DELETE
+[2021.12.04-01.00.37:606][737]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2021.12.04-01.00.37:607][737]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.sky_cloud_Sprite_2.RenderComponent)
+[2021.12.04-01.00.37:623][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.12.04-01.00.37:624][737]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.12.04-01.01.05:177][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.12.04-01.01.05:190][ 16]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/2DSideScrollerExampleMapCC9809AF4C3C1E68347C6E893DE358FA.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/2DSideScrollerExampleMap.umap'
+[2021.12.04-01.01.05:200][ 16]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/2DSideScrollerExampleMap_BuiltDaD075463448F174CF59E6EEA77853DB13.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.12.04-01.01.05:210][ 16]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.04-01.01.05:210][ 16]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Core/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.12.04-01.01.05:210][ 16]LogContentValidation: Display: Validating World /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.12.04-01.01.07:194][253]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-01.01.07:205][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-01.01.07:205][253]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 9:01:07 AM)
+[2021.12.04-01.01.07:248][253]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-01.01.07:250][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002065s)
+[2021.12.04-01.01.07:251][253]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-01.01.07:252][253]LogPlayLevel: PIE: World Init took: (0.002064s)
+[2021.12.04-01.01.07:252][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004273s)
+[2021.12.04-01.01.07:270][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.12.04-01.01.07:271][253]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.12.04-01.01.07:271][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-01.01.07:271][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-01.01.07:271][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-01.01.07:271][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-01.01.07:271][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-01.01.07:271][253]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-01.01.07:271][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-01.01.07:271][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-01.01.07:271][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-01.01.07:271][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-01.01.07:271][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-01.01.07:271][253]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-01.01.07:276][253]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-01.01.07:276][253]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-01.01.07:284][253]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-01.01.07:284][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-01.01.07:284][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-01.01.07:284][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-01.01.07:285][253]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-01.01.07:285][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-01.01.07:285][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-01.01.07:285][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-01.01.07:286][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-01.01.07:286][253]LogInit: FAudioDevice initialized.
+[2021.12.04-01.01.07:286][253]LogAudio: Display: Audio Device (ID: 11) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-01.01.07:292][253]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-01.01.07:293][253]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-17.01.07
+[2021.12.04-01.01.07:293][253]LogWorld: Bringing up level for play took: 0.000539
+[2021.12.04-01.01.07:293][253]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.12.04-01.01.07:294][253]PIE: Server logged in
+[2021.12.04-01.01.07:295][253]PIE: Play in editor total start time 0.096 seconds.
+[2021.12.04-01.01.08:187][359]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=-477.88 Y=0.00 Z=0.00 Location: X=-62.00 Y=1.00 Z=-438.36 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:9.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (27 other events since notify)
+[2021.12.04-01.01.09:195][480]LogCharacterMovement: 2DSideScrollerCharacter_254 is stuck and failed to move! Velocity: X=17.07 Y=0.00 Z=0.00 Location: X=-62.00 Y=1.00 Z=-438.36 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:9.000 Actor:pine1_Sprite_15 Component:RenderComponent BoneName:None (69 other events since notify)
+[2021.12.04-01.01.12:344][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-01.01.12:344][853]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-01.01.12:344][853]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-01.01.12:345][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-01.01.12:352][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-01.01.12:355][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-01.01.12:372][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-01.01.12:372][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-01.01.12:373][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-01.01.12:375][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-01.01.12:377][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.12.04-01.01.12:419][855]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.12.04-01.01.14:537][107]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2021.12.04-01.01.28:037][713]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-01.01.28:048][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-01.01.28:048][713]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 9:01:28 AM)
+[2021.12.04-01.01.28:088][713]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-01.01.28:090][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001927s)
+[2021.12.04-01.01.28:090][713]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-01.01.28:092][713]LogPlayLevel: PIE: World Init took: (0.002311s)
+[2021.12.04-01.01.28:092][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004379s)
+[2021.12.04-01.01.28:112][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.12.04-01.01.28:113][713]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.12.04-01.01.28:113][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-01.01.28:113][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-01.01.28:113][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-01.01.28:113][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-01.01.28:113][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-01.01.28:113][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-01.01.28:113][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-01.01.28:113][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-01.01.28:113][713]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-01.01.28:113][713]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-01.01.28:113][713]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-01.01.28:113][713]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-01.01.28:118][713]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-01.01.28:118][713]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-01.01.28:126][713]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-01.01.28:126][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-01.01.28:126][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-01.01.28:126][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-01.01.28:127][713]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-01.01.28:127][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-01.01.28:127][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-01.01.28:127][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-01.01.28:127][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-01.01.28:127][713]LogInit: FAudioDevice initialized.
+[2021.12.04-01.01.28:127][713]LogAudio: Display: Audio Device (ID: 12) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-01.01.28:133][713]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-01.01.28:134][713]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-17.01.28
+[2021.12.04-01.01.28:134][713]LogWorld: Bringing up level for play took: 0.000543
+[2021.12.04-01.01.28:134][713]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.12.04-01.01.28:135][713]PIE: Server logged in
+[2021.12.04-01.01.28:136][713]PIE: Play in editor total start time 0.093 seconds.
+[2021.12.04-01.01.33:244][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-01.01.33:244][320]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-01.01.33:244][320]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-01.01.33:245][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-01.01.33:256][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-01.01.33:282][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-01.01.33:298][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-01.01.33:298][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-01.01.33:299][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-01.01.33:304][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.12.04-01.01.33:339][321]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.12.04-01.01.58:416][219]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-01.01.58:427][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-01.01.58:427][219]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 9:01:58 AM)
+[2021.12.04-01.01.58:468][219]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-01.01.58:470][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001939s)
+[2021.12.04-01.01.58:471][219]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-01.01.58:472][219]LogPlayLevel: PIE: World Init took: (0.002155s)
+[2021.12.04-01.01.58:472][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004215s)
+[2021.12.04-01.01.58:490][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.12.04-01.01.58:492][219]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.12.04-01.01.58:492][219]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-01.01.58:492][219]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-01.01.58:492][219]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-01.01.58:492][219]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-01.01.58:492][219]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-01.01.58:492][219]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-01.01.58:492][219]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-01.01.58:492][219]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-01.01.58:492][219]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-01.01.58:492][219]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-01.01.58:492][219]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-01.01.58:492][219]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-01.01.58:496][219]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-01.01.58:496][219]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-01.01.58:505][219]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-01.01.58:505][219]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-01.01.58:505][219]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-01.01.58:505][219]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-01.01.58:506][219]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-01.01.58:506][219]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-01.01.58:506][219]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-01.01.58:506][219]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-01.01.58:506][219]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-01.01.58:506][219]LogInit: FAudioDevice initialized.
+[2021.12.04-01.01.58:507][219]LogAudio: Display: Audio Device (ID: 13) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-01.01.58:513][219]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-01.01.58:514][219]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-17.01.58
+[2021.12.04-01.01.58:514][219]LogWorld: Bringing up level for play took: 0.000484
+[2021.12.04-01.01.58:514][219]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.12.04-01.01.58:516][219]PIE: Server logged in
+[2021.12.04-01.01.58:517][219]PIE: Play in editor total start time 0.096 seconds.
+[2021.12.04-01.02.10:904][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-01.02.10:904][700]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-01.02.10:905][700]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-01.02.10:905][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-01.02.10:911][700]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-01.02.10:922][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-01.02.10:938][700]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.04-01.02.10:939][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-01.02.10:939][700]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-01.02.10:941][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-01.02.10:944][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.12.04-01.02.10:996][701]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.12.04-01.02.16:101][310]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (mountain2_Sprite_1)
+[2021.12.04-01.02.20:222][801]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (sky_cloud_Sprite_1)
+[2021.12.04-01.02.25:323][409]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (mountain2_Sprite_1)
+[2021.12.04-01.02.31:872][191]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (pine2_Sprite_1)
+[2021.12.04-01.02.34:413][491]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (pine1_Sprite_1)
+[2021.12.04-01.02.36:496][737]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.04-01.02.36:507][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.04-01.02.36:507][737]PIE: New page: PIE session: 2DSideScrollerExampleMap (Dec 3, 2021, 9:02:36 AM)
+[2021.12.04-01.02.36:548][737]LogPlayLevel: Creating play world package: /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-01.02.36:550][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001980s)
+[2021.12.04-01.02.36:551][737]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.12.04-01.02.36:552][737]LogPlayLevel: PIE: World Init took: (0.002350s)
+[2021.12.04-01.02.36:552][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004464s)
+[2021.12.04-01.02.36:571][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.12.04-01.02.36:572][737]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.12.04-01.02.36:572][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.04-01.02.36:572][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.04-01.02.36:572][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.04-01.02.36:572][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.04-01.02.36:572][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.04-01.02.36:572][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.04-01.02.36:572][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.04-01.02.36:572][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.04-01.02.36:573][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.04-01.02.36:573][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.04-01.02.36:573][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.04-01.02.36:573][737]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.04-01.02.36:577][737]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.04-01.02.36:577][737]LogAudioMixer: Display: 1: FrontRight
+[2021.12.04-01.02.36:585][737]LogAudioMixer: Display: Using Audio Device Headphones (SteelSeries Arctis Pro Game)
+[2021.12.04-01.02.36:586][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.04-01.02.36:586][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.04-01.02.36:586][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.04-01.02.36:586][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.04-01.02.36:586][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.04-01.02.36:586][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.04-01.02.36:587][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.04-01.02.36:587][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.04-01.02.36:587][737]LogInit: FAudioDevice initialized.
+[2021.12.04-01.02.36:587][737]LogAudio: Display: Audio Device (ID: 14) registered with world '2DSideScrollerExampleMap'.
+[2021.12.04-01.02.36:597][737]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.12.04-01.02.36:598][737]LogWorld: Bringing World /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.12.03-17.02.36
+[2021.12.04-01.02.36:598][737]LogWorld: Bringing up level for play took: 0.000499
+[2021.12.04-01.02.36:598][737]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.12.04-01.02.36:600][737]PIE: Server logged in
+[2021.12.04-01.02.36:600][737]PIE: Play in editor total start time 0.099 seconds.
+[2021.12.04-01.04.51:134][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-01.04.51:134][866]LogWorld: BeginTearingDown for /Game/Core/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.12.04-01.04.51:135][866]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.04-01.04.51:135][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-01.04.51:141][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.04-01.04.51:153][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.04-01.04.51:169][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.04-01.04.51:169][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-01.04.51:170][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.04-01.04.51:175][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.12.04-01.04.51:209][867]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.12.04-01.04.53:677][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.12.04-01.04.54:873][157]LogSlate: Window 'Save Content' being destroyed
+[2021.12.04-01.04.54:921][157]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/2DSideScrollerCharacterF5AA208B41523D352372DF88CD45C8C6.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2021.12.04-01.04.54:940][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.12.04-01.04.54:952][157]LogSavePackage: Moving '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Saved/2DSideScrollerExampleMap65DAC8734B82F6AB117956A753C4A0B6.tmp' to '../../../../../../RomaniaGameJam/2021SlowJam/RomaniaGameJam/RomanianGameJam/Content/Core/Maps/2DSideScrollerExampleMap.umap'
+[2021.12.04-01.04.54:961][157]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.038
+[2021.12.04-01.04.54:970][157]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.04-01.04.54:970][157]LogContentValidation: Display: Validating Blueprint /Game/Core/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2021.12.04-01.04.54:970][157]LogContentValidation: Display: Validating World /Game/Core/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
